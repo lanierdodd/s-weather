@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">s-weather</string>
+    <string name="app_hint">输入地址</string>
 </resources>
